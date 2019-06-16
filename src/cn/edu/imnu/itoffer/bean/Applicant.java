@@ -16,7 +16,7 @@ public class Applicant {
 		this.applicantId = applicantId;
 		this.applicantEmail = applicantEmail;
 		this.applicantPwd = applicantPwd;
-		
+		System.out.println("123");
 		// TODO Auto-generated constructor stub
 	}
 
